@@ -23,7 +23,7 @@ countries/ireland/
 1. **county_data**: Contains shapefiles specific to counties in Ireland.
 2. **ERA5**: Contains data from the ERA5 reanalysis project.
    - **AllData**: A subfolder containing NetCDF files with complete hourly data from ERA5 from 1990 to 2022. Monthly means are found in the parent folder from 1940-1980. 
-   - **Excel Files**: Various Excel datasets (.xlsx) containing processed ERA5 data. Files with the suffix `_q` are quarterly data, while those with the suffix `_m_` are monthly. 
+   - **Excel Files**: Various Excel datasets (.xlsx) containing processed ERA5 data. Files with the suffix `_q` are quarterly data, while those with the suffix `_m` are monthly. 
 
 ### Notebooks
 
