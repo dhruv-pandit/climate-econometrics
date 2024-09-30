@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [dhruvpandit@aln.iseg.ulisboa.pt].
+For any questions or suggestions, please open an issue or contact [dpandit@novaims.unl.pt].

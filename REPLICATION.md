@@ -73,6 +73,6 @@ Before you begin, make sure you have the following software installed:
 
 ---
 
-For any further assistance, please open an issue in the repository or contact [dhruvpandit@aln.iseg.ulisboa.pt].
+For any further assistance, please open an issue in the repository or contact [dpandit@novaims.unl.pt].
 
 Happy replicating!
