@@ -1,11 +1,12 @@
 # Climate Econometrics Repository
 
 Welcome to the Climate Econometrics repository. This repository is a collaborative space for researchers interested in climate econometrics. Here, you'll find template notebooks, country-specific studies, and other resources to help you conduct and share your research.
+Currently, this repository also hosts the notebooks that proccessed data for the ().
 
 ## Repository Structure
 
 - `templates/`: Contains general template notebooks and example data for starting new studies.
-- `countries/`: Subfolders for each country, containing data, analysis notebooks, and results specific to that country.
+- `countries/`: Subfolders for each country, containing data, analysis notebooks, and results specific to that country. Notebooks and data for () can be found in the portugal subfolder. 
 
 ## How to Use this Repository
 

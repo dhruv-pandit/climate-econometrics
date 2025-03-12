@@ -1,11 +1,11 @@
 # Portugal Climate Econometrics
 
-Welcome to the Ireland section of the Climate Econometrics repository. This section contains datasets and notebooks specifically for Ireland. Below, you'll find the structure and contents of this subfolder.
+Welcome to the Portugal section of the Climate Econometrics repository. This section contains datasets and notebooks specifically for Portugal that were used for (). Below, you'll find the structure and contents of this subfolder. 
 
 ## Folder Structure
 
 ```
-countries/ireland/
+countries/portugal/
 │
 ├── datasets/
 │   ├── counties/
@@ -29,4 +29,5 @@ countries/ireland/
 ### Notebooks
 
 - **portugal_era5_processing.ipynb**: This Jupyter notebook processes the hourly ERA5 data into aggregated data. 
+- **merge_era5_processing.ipynb**: This notebook merges and weights the data to a municipality level. 
 
