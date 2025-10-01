@@ -1,13 +1,17 @@
 # Climate Econometrics Repository
 
+
+
+
+
 Welcome to the Climate Econometrics repository. This repository is a collaborative space for researchers interested in climate econometrics. Here, you'll find template notebooks, country-specific studies, and other resources to help you conduct and share your research.
-Currently, this repository also hosts the notebooks that proccessed data for the ().
 
 ## Repository Structure
 
-- `templates/`: Contains general template notebooks and example data for starting new studies.
-- `countries/`: Subfolders for each country, containing data, analysis notebooks, and results specific to that country. Notebooks and data for () can be found in the portugal subfolder. 
-
+- `general_code/`: Contains general notebooks and code.
+- `countries/`: Subfolders for each country, containing data, analysis notebooks, and results specific to that country. 
+  - `portugal/` has three folders, one for municpilaity data specific to Portugal, one for notebooks related to the impact of weather on purchases, and another for yearly data by Distrito for a paper on (). 
+- `countries/medit_data` contains historical monthly data for Mediterranean countries from the World Bank. 
 ## How to Use this Repository
 
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
@@ -22,13 +26,11 @@ Currently, this repository also hosts the notebooks that proccessed data for the
     pip install -r requirements.txt
     ```
 
-3. **Explore Templates**: Check the `templates/` folder for starting points. You can copy these templates to create new studies or analyses.
-
-4. **Add Your Work**: 
+3. **Add Your Work**: 
     - For country-specific work, navigate to the respective country's folder under `countries/` and add your data, notebooks, and results.
     - For new studies, create a new folder under `studies/` and organize your work accordingly.
 
-5. **Commit and Push**: After making changes, commit and push your work to the repository.
+4. **Commit and Push**: After making changes, commit and push your work to the repository.
     ```sh
     git add .
     git commit -m "Your commit message"
@@ -41,7 +43,7 @@ We welcome contributions from all researchers. Please read the `CONTRIBUTING.md`
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the CC0 1.0 Universal License. See the `LICENSE` file for details.
 
 ## Contact
 
